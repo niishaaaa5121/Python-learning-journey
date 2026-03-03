@@ -1,11 +1,15 @@
 🐍 Python Learning Journey
-A personal collection of code and notes from my Python learning journey, following along with Code with Harry on YouTube.
+
+#A personal collection of code and notes from my Python learning journey, following along with Code with Harry on YouTube.
+
 📖 About
-This repository tracks my progress as I learn Python from scratch. Each folder or file corresponds to a topic or tutorial from the series.
+#This repository tracks my progress as I learn Python from scratch. Each folder or file corresponds to a topic or tutorial from the series.
+
 📂 What's Inside
-Notes and code snippets from each lesson
-Mini exercises and practice problems
-My own experiments and tweaks along the way
+#Notes and code snippets from each lesson
+#Mini exercises and practice problems
+#My own experiments and tweaks along the way
+
 🧠 Topics Covered
 [ ] Python basics (variables, data types, operators)
 [ ] Control flow (if/else, loops)
