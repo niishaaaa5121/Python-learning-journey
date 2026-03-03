@@ -1,5 +1,3 @@
-Title: Python-learning-journey/README.md at main · niishaaaa5121/Python-learning-journey
+# 🐍 Python Learning Log
 
-URL: https://github.com/niishaaaa5121/Python-learning-journey/blob/main/README.md
-
-Status: Active (this is the tab you’re viewing)
+This repository tracks my daily progress as I prepare for my BCA in AI & ML.
